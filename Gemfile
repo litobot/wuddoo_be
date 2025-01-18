@@ -53,7 +53,6 @@ end
 group :development do
   # Use console on exceptions pages [https://github.com/rails/web-console]
   gem "web-console"
-  gem "rspec-rails", "~> 6.0"
   gem "rubocop", require: false
 
   # Add speed badges [https://github.com/MiniProfiler/rack-mini-profiler]
